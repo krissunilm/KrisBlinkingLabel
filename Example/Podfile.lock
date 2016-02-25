@@ -1,0 +1,14 @@
+PODS:
+  - KrisBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - KrisBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  KrisBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KrisBlinkingLabel: b3650eb46a6834479f0544d7143e034bb381fc90
+
+COCOAPODS: 0.39.0

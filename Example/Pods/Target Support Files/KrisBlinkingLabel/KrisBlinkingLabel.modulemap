@@ -1,0 +1,6 @@
+framework module KrisBlinkingLabel {
+  umbrella header "KrisBlinkingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
